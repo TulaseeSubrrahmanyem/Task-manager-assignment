@@ -34,10 +34,10 @@ Supports **light/dark mode** with `next-themes`.
 ## 📸 Screenshots
 
 ### Light Mode  
-![Light Mode Screenshot](./public/lightDomeTaskmanager.png)
+![Light Mode Screenshot](./lightDomeTaskmanager.png)
 
 ### Dark Mode  
-![Dark Mode Screenshot](./public/darkmodeTaskmanager.png)
+![Dark Mode Screenshot](./darkmodeTaskmanager.png)
 
 *(Add your own screenshots inside a `screenshots/` folder in the repo)*
 
